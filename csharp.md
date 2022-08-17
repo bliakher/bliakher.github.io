@@ -4,11 +4,12 @@ title: C# and .NET
 permalink: /csharp/
 ---
 
-<div class="row">
-  <div class="col-md-4" markdown="1">
-  <img height="300px" class="center-block" src="./assets/piskworks.png">
-  </div>
-  <div class="col-md-8" markdown="1">
-    Piskworks
-  </div>
-</div>
+<img height="300px" src="./assets/piskworks.png" />
+
+#### PiskWorks
+
+**Multiplayer 3D Noughts and Crosses**
+
+Game of Noughts and Crosses for 2 players on LAN played in 3D grid. 
+
+GitHub: https://github.com/bliakher/piskworks
