@@ -18,6 +18,18 @@ Game of Noughts and Crosses for 2 players on LAN played in 3D grid.
 
 ---
 
+#### YOLO
+
+<img width="250px" src="{{ site.baseurl }}/assets/yolo.png" />
+
+**Game jam submission where you only live once** [GitHub](https://github.com/HoTEMat/yolo) [Game page](https://bliakher.itch.io/yolo)
+
+Team submission to GAMEHIGHED Jam 2021. Player has 1 minute to tick off silly bucketlist tasks.
+
+- Technology: C#, MonoGame
+
+---
+
 #### Pacman
 
 <img width="250px" src="{{ site.baseurl }}/assets/pacman.png" />
@@ -30,13 +42,3 @@ My version of the classic ZX-spectrum game.
 
 ---
 
-#### YOLO
-
-
-<img width="250px" src="{{ site.baseurl }}/assets/yolo.png" />
-
-**Game jam submission where you only live once** [GitHub](https://github.com/HoTEMat/yolo) [Game page](https://bliakher.itch.io/yolo)
-
-Team submission to GAMEHIGHED Jam 2021. Player has 1 minute to tick off silly bucketlist tasks.
-
-- Technology: C#, MonoGame
