@@ -11,7 +11,7 @@ layout: home
 
 **Projects are divided based on the technology used**
 
-- C# and the .NET platform
+- [C# and the .NET platform](https://bliakher.github.io/csharp)
 - Web Deveplopment
 - C++
 - Python
