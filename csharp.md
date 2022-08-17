@@ -4,7 +4,7 @@ title: C# and .NET
 permalink: /csharp/
 ---
 
-<img height="250px" src="{{ site.baseurl }}/assets/piskworks.png" />
+<img width="250px" src="{{ site.baseurl }}/assets/piskworks.png" />
 
 #### PiskWorks
 
@@ -18,7 +18,7 @@ Game of Noughts and Crosses for 2 players on LAN played in 3D grid.
 
 ---
 
-<img height="250px" src="{{ site.baseurl }}/assets/pacman.png" />
+<img width="250px" src="{{ site.baseurl }}/assets/pacman.png" />
 
 #### Pacman
 
@@ -28,3 +28,14 @@ My version of the classic ZX-spectrum game.
 
 - Technology: C#, MonoGame
 
+---
+
+<img width="250px" src="{{ site.baseurl }}/assets/yolo.png" />
+
+#### YOLO
+
+**Game Jam submission where you only live once** [GitHub](https://github.com/HoTEMat/yolo) [Game page](https://bliakher.itch.io/yolo)
+
+Team submission to GAMEHIGHED Jam 2021. Player has 1 minute to tick off silly bucketlist tasks.
+
+- Technology: C#, MonoGame
