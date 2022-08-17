@@ -4,3 +4,14 @@
 
 layout: home
 ---
+
+## Personal website for my projects and CV
+
+### Projects
+
+**Projects are divided based on the technology used**
+
+- C# and the .NET platform
+- Web Deveplopment
+- C++
+- Python
