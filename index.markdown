@@ -13,6 +13,6 @@ title: Home
 **Projects are divided based on the technology used**
 
 - [C# and the .NET platform](https://bliakher.github.io/csharp)
-- Web Deveplopment
+- [Web Deveplopment](https://bliakher.github.io/webdev)
 - C++
 - Python

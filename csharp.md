@@ -4,9 +4,9 @@ title: C# and .NET
 permalink: /csharp/
 ---
 
-<img width="250px" src="{{ site.baseurl }}/assets/piskworks.png" />
-
 #### PiskWorks
+
+<img width="250px" src="{{ site.baseurl }}/assets/piskworks.png" />
 
 **Multiplayer 3D Noughts and Crosses** [GitHub](https://github.com/bliakher/piskworks)
 
@@ -18,9 +18,9 @@ Game of Noughts and Crosses for 2 players on LAN played in 3D grid.
 
 ---
 
-<img width="250px" src="{{ site.baseurl }}/assets/pacman.png" />
-
 #### Pacman
+
+<img width="250px" src="{{ site.baseurl }}/assets/pacman.png" />
 
 **Simple Pacman game** [GitHub](https://github.com/bliakher/pacman)
 
@@ -30,11 +30,12 @@ My version of the classic ZX-spectrum game.
 
 ---
 
-<img width="250px" src="{{ site.baseurl }}/assets/yolo.png" />
-
 #### YOLO
 
-**Game Jam submission where you only live once** [GitHub](https://github.com/HoTEMat/yolo) [Game page](https://bliakher.itch.io/yolo)
+
+<img width="250px" src="{{ site.baseurl }}/assets/yolo.png" />
+
+**Game jam submission where you only live once** [GitHub](https://github.com/HoTEMat/yolo) [Game page](https://bliakher.itch.io/yolo)
 
 Team submission to GAMEHIGHED Jam 2021. Player has 1 minute to tick off silly bucketlist tasks.
 
