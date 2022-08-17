@@ -4,7 +4,7 @@ title: C# and .NET
 permalink: /csharp/
 ---
 
-<img height="300px" src="./assets/piskworks.png" />
+<img height="300px" src="{{ site.baseurl }}/assets/piskworks.png" />
 
 #### PiskWorks
 
@@ -12,4 +12,19 @@ permalink: /csharp/
 
 Game of Noughts and Crosses for 2 players on LAN played in 3D grid. 
 
-GitHub: https://github.com/bliakher/piskworks
+- Technology: C#, MonoGame
+
+- Techniques: Sockets, Tasks, 3D graphics
+
+**GitHub:** https://github.com/bliakher/piskworks
+
+
+#### Pacman
+
+**Simple Pacman game**
+
+My version of the classic ZX-spectrum game. 
+
+- Technology: C#, MonoGame
+
+**GitHub:** https://github.com/bliakher/piskworks
