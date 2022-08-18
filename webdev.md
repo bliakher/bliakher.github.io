@@ -40,7 +40,7 @@ Team project for a university course. I was in charge of the frontend but also t
 
 - Technology:
   - Frontend: TypeScript, React
-  - Backend: TypeScript, NodeJS, Express, Postgres
+  - Backend: TypeScript, Node.js, Express, Postgres
   - Docker
 
 ---
