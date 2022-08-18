@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-## Personal website for my projects and CV
+## Personal website for my projects
 
 ### Projects
 
