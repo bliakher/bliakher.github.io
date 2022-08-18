@@ -14,5 +14,5 @@ title: Home
 
 - [C# and the .NET platform](https://bliakher.github.io/csharp)
 - [Web Deveplopment](https://bliakher.github.io/webdev)
-- C++
-- Python
+- [C++](https://bliakher.github.io/cplusplus)
+- [Python](https://bliakher.github.io/python)
