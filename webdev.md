@@ -22,7 +22,7 @@ Application connects multiple sources of open data to visualize on the map and s
 - Technology: TypeScript, React, SPARQL, Mapbox GL
 
 - Deployed on GitHub Pages [here](https://bliakher.github.io/uredni_desky)
-*\* Load of the app currently takes about 35s due to one of the main data sources being on construction and hence very limited performance.*
+*\* Load of the app currently takes about 35s due to one of the main data sources being under construction and hence very limited performance.*
 
 
 ---
@@ -45,3 +45,14 @@ Team project for a university course. I was in charge of the frontend but also t
 
 ---
 
+#### Election results map
+
+<img width="350px" src="{{ site.baseurl }}/assets/../../assets/volebni_mapa.png">
+
+**Utility to include a map with election results to articles** [GitHub](https://github.com/DataRozhlas/volby21-mapa/blob/mapa/js/script.js) [Used here](https://www.irozhlas.cz/volby/parlamentni-volby-2021-mapa-volili-sousede-sousedi-okrsky-volby_2110091850_pek)
+
+Semester project made for Český Rozhlas (Czech national radio). It is a JavaScript utility that alows to embed an interactive map, that shows parliamentary election results, into articles.
+
+- Technology: JavaScript, Mapbox GL
+
+- Article with the map: https://www.irozhlas.cz/volby/parlamentni-volby-2021-mapa-volili-sousede-sousedi-okrsky-volby_2110091850_pek
