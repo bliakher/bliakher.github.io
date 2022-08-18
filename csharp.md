@@ -18,6 +18,16 @@ Game of Noughts and Crosses for 2 players on LAN played in 3D grid.
 
 ---
 
+#### CShargs 🌊🦈
+
+**Declarative argument parser for C\#** [GitHub](https://github.com/bliakher/cshargs)
+
+Library for argument parsing in C#. User create a class representing the arguments object. The library populates this object with data from the command line using reflexion.
+
+- Technology: C#
+
+---
+
 #### YOLO
 
 <img width="250px" src="{{ site.baseurl }}/assets/yolo.png" />
