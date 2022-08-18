@@ -55,4 +55,4 @@ Semester project made for Český Rozhlas (Czech national radio). It is a JavaSc
 
 - Technology: JavaScript, Mapbox GL
 
-- Article with the map: https://www.irozhlas.cz/volby/parlamentni-volby-2021-mapa-volili-sousede-sousedi-okrsky-volby_2110091850_pek
+- [Article with the map](https://www.irozhlas.cz/volby/parlamentni-volby-2021-mapa-volili-sousede-sousedi-okrsky-volby_2110091850_pek)
