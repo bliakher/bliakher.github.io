@@ -7,6 +7,7 @@ permalink: /webdev/
 #### Public administration bulletin boards
 
 <img width="250px" src="{{ site.baseurl }}/assets/uredni_mapa.jpg" /><img width="250px" src="{{ site.baseurl }}/assets/uredni_seznam.jpg" />
+*\* App is in Czech*
 
 
 **Web app for searching in public administration bulletin boards** [GitHub](https://github.com/bliakher/uredni_desky)
@@ -17,10 +18,30 @@ App enables to filter bulletin boards based on name and category and visualizes 
 
 Application connects multiple sources of open data to visualize on the map and show statistics.
 
-*\* App and documentation are in Czech*
 
 - Technology: TypeScript, React, SPARQL, Mapbox GL
 
 - Deployed on GitHub Pages [here](https://bliakher.github.io/uredni_desky)
+*\* Load of the app currently takes about 35s due to one of the main data sources being on construction and hence very limited performance.*
+
 
 ---
+
+#### Web crawler
+
+<img width="350px" src="{{ site.baseurl }}/assets/../../assets/webcrawler.png"><img width="200px" src="{{ site.baseurl }}/assets/../../assets/graph-data.png">
+
+
+**Web crawler with a graph visualization and GraphQL API** [Github](https://github.com/bliakher/webcrawler)
+
+Web crawler that lets user set up URLs to crawl with boundary RegEx. Server crawls URLs periodicaly. Crawled data can be displayed as a graph visualization in the web application or acquired from a GraphQL API. Application is deployed using Docker.
+
+Team project for a university course. I was in charge of the frontend but also took part in the backend.
+
+- Technology:
+  - Frontend: TypeScript, React
+  - Backend: TypeScript, NodeJS, Express, Postgres
+  - Docker
+
+---
+
