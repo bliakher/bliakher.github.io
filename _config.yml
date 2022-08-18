@@ -32,6 +32,7 @@ header_pages:
   - webdev.md
   - cplusplus.md
   - python.md
+  - about.md
 
 # Build settings
 theme: minima
