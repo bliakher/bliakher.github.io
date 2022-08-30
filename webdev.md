@@ -22,7 +22,6 @@ Application connects multiple sources of open data to visualize on the map and s
 - Technology: TypeScript, React, SPARQL, Mapbox GL
 
 - Deployed on GitHub Pages [here](https://bliakher.github.io/uredni_desky)
-*\* Load of the app currently takes about 35s due to one of the main data sources being under construction and hence very limited performance.*
 
 
 ---
