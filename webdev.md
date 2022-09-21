@@ -44,6 +44,19 @@ Team project for a university course. I was in charge of the frontend but also t
 
 ---
 
+### Address book *work in progress*
+
+**Backend for a simple app for storing contact information** [GitHub](https://github.com/bliakher/address_book)
+
+REST API and implementation of an app for storing contacts. It uses Postgres for storing user profile data and Firebase for storing contacts. Users are authenticated using JWT.
+
+- Technology:
+  - Backend: Node.js, TypeScript
+  - Database: Postgres, TypeORM, Firestore
+  - Docker
+
+---
+
 #### Election results map
 
 <img width="350px" src="{{ site.baseurl }}/assets/../../assets/volebni_mapa.png">
