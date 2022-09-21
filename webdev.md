@@ -44,7 +44,9 @@ Team project for a university course. I was in charge of the frontend but also t
 
 ---
 
-### Address book *work in progress*
+### Address book 
+
+*work in progress*
 
 **Backend for a simple app for storing contact information** [GitHub](https://github.com/bliakher/address_book)
 
