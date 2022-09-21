@@ -38,7 +38,7 @@ Web crawler that lets user set up URLs to crawl with boundary RegEx. Server craw
 Team project for a university course. I was in charge of the frontend but also took part in the backend.
 
 - Technology:
-  - Frontend: TypeScript, React
+  - Frontend: TypeScript, React, D3.js
   - Backend: TypeScript, Node.js, Express, Postgres
   - Docker
 
